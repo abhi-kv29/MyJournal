@@ -6,4 +6,4 @@ A Personal Project with a starting of only composing your day and saving it in a
 ### Desktop
 ---
 <br />
-![](Screenshots/Home%20Page.png) 
+<img src = "Screenshots/Home%20Page" > 
